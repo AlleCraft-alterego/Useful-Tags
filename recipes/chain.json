@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "N",
+    "I",
+    "N"
+  ],
+  "key": {
+    "I": {
+      "tag": "ut:ingot/iron"
+    },
+    "N": {
+      "tag": "ut:nugget/iron"
+    }
+  },
+  "result": {
+    "item": "minecraft:chain"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "banner",
+  "pattern": [
+    "###",
+    "###",
+    " | "
+  ],
+  "key": {
+    "#": {
+      "tag": "ut:wool/green"
+    },
+    "|": {
+      "tag": "ut:rod/wooden"
+    }
+  },
+  "result": {
+    "item": "minecraft:green_banner"
+  }
+}

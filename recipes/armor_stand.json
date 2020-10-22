@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "///",
+    " / ",
+    "/_/"
+  ],
+  "key": {
+    "/": {
+      "tag": "ut:rod/wooden"
+    },
+    "_": {
+      "tag": "ut:slab/stone"
+    }
+  },
+  "result": {
+    "item": "minecraft:armor_stand"
+  }
+}

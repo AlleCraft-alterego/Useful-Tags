@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    " i ",
+    "iii"
+  ],
+  "key": {
+    "I": {
+      "tag": "ut:block/iron"
+    },
+    "i": {
+      "tag": "ut:ingot/iron"
+    }
+  },
+  "result": {
+    "item": "minecraft:anvil"
+  }
+}

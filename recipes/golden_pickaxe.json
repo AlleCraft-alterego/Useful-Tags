@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "ut:rod/wooden"
+    },
+    "X": {
+      "tag": "ut:ingot/gold"
+    }
+  },
+  "result": {
+    "item": "minecraft:golden_pickaxe"
+  }
+}

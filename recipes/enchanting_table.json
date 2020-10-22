@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "D#D",
+    "###"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:book"
+    },
+    "#": {
+      "item": "minecraft:obsidian"
+    },
+    "D": {
+      "tag": "ut:gem/diamond"
+    }
+  },
+  "result": {
+    "item": "minecraft:enchanting_table"
+  }
+}

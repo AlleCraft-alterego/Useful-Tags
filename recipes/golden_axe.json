@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "X#",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "tag": "ut:rod/wooden"
+    },
+    "X": {
+      "tag": "ut:ingot/gold"
+    }
+  },
+  "result": {
+    "item": "minecraft:golden_axe"
+  }
+}

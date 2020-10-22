@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #X",
+    "# X",
+    " #X"
+  ],
+  "key": {
+    "#": {
+      "tag": "ut:rod/wooden"
+    },
+    "X": {
+      "tag": "ut:string"
+    }
+  },
+  "result": {
+    "tag": "ut:tools/bow"
+  }
+}

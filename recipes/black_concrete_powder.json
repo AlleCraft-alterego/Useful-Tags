@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "concrete_powder",
+  "ingredients": [
+    {
+      "tag": "ut:dye/black"
+    },
+    {
+      "tag": "ut:sand"
+    },
+    {
+      "tag": "ut:sand"
+    },
+    {
+      "tag": "ut:sand"
+    },
+    {
+      "tag": "ut:sand"
+    },
+    {
+      "tag": "ut:gravel"
+    },
+    {
+      "tag": "ut:gravel"
+    },
+    {
+      "tag": "ut:gravel"
+    },
+    {
+      "tag": "ut:gravel"
+    }
+  ],
+  "result": {
+    "item": "minecraft:black_concrete_powder",
+    "count": 8
+  }
+}
