@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:seed/beetroot",
+    "#ut:seed/melon",
+    "#ut:seed/pumpkin",
+    "#ut:seed/defaul",
+    "#forge:seeds",
+    "#minecraft:seeds"
+  ]
+}

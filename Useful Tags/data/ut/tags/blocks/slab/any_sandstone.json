@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:slabs/cut_red_sandstone",
+    "#ut:slabs/cut_sandstone",
+    "#ut:slabs/red_sandstone",
+    "#ut:slabs/sandstone"
+  ]
+}

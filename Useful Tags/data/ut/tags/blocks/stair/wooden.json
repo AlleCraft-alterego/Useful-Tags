@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:stairs/acacia",
+    "#ut:stairs/birch",
+    "#ut:stairs/dark_oak",
+    "#ut:stairs/jungle",
+    "#ut:stairs/oak",
+    "#ut:stairs/spruce",
+    "#ut:stairs/crimson",
+    "#ut:stairs/warped",
+    "#ut:stairs/petrified"
+  ]
+}

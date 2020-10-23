@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:log/log_stripped",
+    "#ut:log/bark_stripped"
+  ]
+}

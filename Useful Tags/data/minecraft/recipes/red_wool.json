@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wool",
+  "ingredients": [
+    {
+      "tag": "ut:dye/red"
+    },
+    {
+      "tag": "ut:wool"
+    }
+  ],
+  "result": {
+    "item": "minecraft:red_wool"
+  }
+}

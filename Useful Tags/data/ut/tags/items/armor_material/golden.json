@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:golden_horse_armor",
+    "minecraft:golden_boots",
+    "minecraft:golden_chestplate",
+    "minecraft:golden_leggins",
+    "minecraft:golden_helmet"
+
+  ]
+}

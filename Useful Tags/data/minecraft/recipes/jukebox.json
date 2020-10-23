@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "ut:plank"
+    },
+    "X": {
+      "tag": "ut:gem/diamond"
+    }
+  },
+  "result": {
+    "item": "minecraft:jukebox"
+  }
+}

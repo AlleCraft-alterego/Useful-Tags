@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:button/oak",
+    "#ut:button/spruce",
+    "#ut:button/birch",
+    "#ut:button/jungle",
+    "#ut:button/acacia",
+    "#ut:button/dark_oak",
+    "#ut:button/crimson",
+    "#ut:button/warped",
+    "#minecraft:buttons"
+  ]
+}

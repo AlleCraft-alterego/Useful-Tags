@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:log/oak",
+    "#ut:log/spruce",
+    "#ut:log/birch",
+    "#ut:log/jungle",
+    "#ut:log/acacia",
+    "#ut:log/dark_oak",
+    "#ut:log/crimson",
+    "#ut:log/warped",
+    "#ut:log_stripped/oak",
+    "#ut:log_stripped/spruce",
+    "#ut:log_stripped/birch",
+    "#ut:log_stripped/jungle",
+    "#ut:log_stripped/acacia",
+    "#ut:log_stripped/dark_oak",
+    "#ut:log_stripped/crimson",
+    "#ut:log_stripped/warped"
+  ]
+}

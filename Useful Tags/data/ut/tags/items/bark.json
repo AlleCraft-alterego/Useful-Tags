@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:bark/oak",
+    "#ut:bark/spruce",
+    "#ut:bark/birch",
+    "#ut:bark/jungle",
+    "#ut:bark/acacia",
+    "#ut:bark/dark_oak",
+    "#ut:bark/crimson",
+    "#ut:bark/warped",
+    "#ut:bark_stripped/oak",
+    "#ut:bark_stripped/spruce",
+    "#ut:bark_stripped/birch",
+    "#ut:bark_stripped/jungle",
+    "#ut:bark_stripped/acacia",
+    "#ut:bark_stripped/dark_oak",
+    "#ut:bark_stripped/crimson",
+    "#ut:bark_stripped/warped"
+  ]
+}

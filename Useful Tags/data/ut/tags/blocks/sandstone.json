@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:sandstone/chiseled",
+    "#ut:sandstone/cut",
+    "#ut:sandstone/default",
+    "#ut:sandstone/smooth"
+  ]
+}

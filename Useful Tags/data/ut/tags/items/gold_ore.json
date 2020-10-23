@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:ore/gold",
+    "#ut:ore/nether_gold"
+  ]
+}

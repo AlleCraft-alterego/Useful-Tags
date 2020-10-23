@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:fence/oak",
+    "#ut:fence/spruce",
+    "#ut:fence/birch",
+    "#ut:fence/jungle",
+    "#ut:fence/acacia",
+    "#ut:fence/dark_oak",
+    "#ut:fence/crimson",
+    "#ut:fence/warped",
+    "#ut:fence/nether",
+    "#forge:fences",
+    "#minecraft:fences"
+  ]
+}

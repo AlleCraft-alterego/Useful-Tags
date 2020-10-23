@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:iron_horse_armor",
+    "minecraft:iron_boots",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_leggins",
+    "minecraft:iron_helmet"
+
+  ]
+}

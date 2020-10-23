@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:slabs/brick",
+    "#ut:slabs/end_stone_brick",
+    "#ut:slabs/mossy_stone_brick",
+    "#ut:slabs/polished_blackstone_brick",
+    "#ut:slabs/stone_brick"
+  ]
+}

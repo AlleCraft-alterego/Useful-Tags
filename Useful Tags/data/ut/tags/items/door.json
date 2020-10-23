@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:door/oak",
+    "#ut:door/spruce",
+    "#ut:door/birch",
+    "#ut:door/jungle",
+    "#ut:door/acacia",
+    "#ut:door/dark_oak",
+    "#ut:door/crimson",
+    "#ut:door/warped",
+    "#ut:door/iron",
+    "#minecraft:doors"
+  ]
+}

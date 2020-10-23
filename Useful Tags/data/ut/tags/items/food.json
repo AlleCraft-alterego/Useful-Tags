@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:food/coocked",
+    "#ut:food/liquid",
+    "#ut:food/raw",
+    "#ut:food/soup",
+    "#ut:food/stew"
+  ]
+}

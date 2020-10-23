@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "RRQ",
+    "###"
+  ],
+  "key": {
+    "Q": {
+      "tag": "ut:crystal/quartz"
+    },
+    "R": {
+      "tag": "ut:dust/redstone"
+    },
+    "#": {
+      "tag": "ut:cobblestone"
+    }
+  },
+  "result": {
+    "item": "minecraft:observer"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:saplig/oak",
+    "#ut:saplig/spruce",
+    "#ut:saplig/birch",
+    "#ut:saplig/jungle",
+    "#ut:saplig/acacia",
+    "#ut:saplig/dark_oak",
+    "#ut:saplig/crimson",
+    "#ut:saplig/warped",
+    "#minecraft:saplings"
+  ]
+}

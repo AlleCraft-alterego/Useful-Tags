@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "silentgems:silver_ingot",
+    "silents_mechanisms:silver_ingot",
+    "immersiveengineering:ingot_silver",
+    "c:silver_ingot"
+  ]
+}

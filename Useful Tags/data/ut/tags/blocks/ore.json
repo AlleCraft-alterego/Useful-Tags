@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:ore/gold",
+    "#ut:ore/nether_gold",
+    "#ut:ore/coal",
+    "#ut:ore/diamond",
+    "#ut:ore/emerald",
+    "#ut:ore/iron",
+    "#ut:ore/lapis",
+    "#ut:ore/netherite_scrap",
+    "#ut:ore/quartz",
+    "#ut:ore/redstone",
+    "#forge:ores"
+  ]
+}

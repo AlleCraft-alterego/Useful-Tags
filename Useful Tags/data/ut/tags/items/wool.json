@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:wool/white",
+    "#ut:wool/orange",
+    "#ut:wool/magenta",
+    "#ut:wool/light_blue",
+    "#ut:wool/yellow",
+    "#ut:wool/lime",
+    "#ut:wool/pink",
+    "#ut:wool/gray",
+    "#ut:wool/light_gray",
+    "#ut:wool/cyan",
+    "#ut:wool/purple",
+    "#ut:wool/blue",
+    "#ut:wool/brown",
+    "#ut:wool/green",
+    "#ut:wool/red",
+    "#ut:wool/black",
+    "#minecraft:wool"
+  ]
+}

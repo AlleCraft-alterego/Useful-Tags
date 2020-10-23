@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:concrete_powder/white",
+    "#ut:concrete_powder/orange",
+    "#ut:concrete_powder/magenta",
+    "#ut:concrete_powder/light_blue",
+    "#ut:concrete_powder/yellow",
+    "#ut:concrete_powder/lime",
+    "#ut:concrete_powder/pink",
+    "#ut:concrete_powder/gray",
+    "#ut:concrete_powder/light_gray",
+    "#ut:concrete_powder/cyan",
+    "#ut:concrete_powder/purple",
+    "#ut:concrete_powder/blue",
+    "#ut:concrete_powder/brown",
+    "#ut:concrete_powder/green",
+    "#ut:concrete_powder/red",
+    "#ut:concrete_powder/black"
+
+  ]
+}

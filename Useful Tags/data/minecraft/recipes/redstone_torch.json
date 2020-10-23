@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "tag": "ut:rod/wooden"
+    },
+    "X": {
+      "tag": "ut:dust/redstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:redstone_torch"
+  }
+}

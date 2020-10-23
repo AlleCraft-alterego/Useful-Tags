@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:quartz_block/bricks",
+    "#ut:quartz_block/chiseled",
+    "#ut:quartz_block/default",
+    "#ut:quartz_block/pillar",
+    "#ut:quartz_block/smooth"
+  ]
+}

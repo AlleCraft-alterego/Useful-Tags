@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    "#X#",
+    "#R#"
+  ],
+  "key": {
+    "R": {
+      "tag": "ut:dust/redstone"
+    },
+    "#": {
+      "tag": "ut:cobblestone"
+    },
+    "T": {
+      "tag": "ut:plank"
+    },
+    "X": {
+      "tag": "ut:ingot/iron"
+    }
+  },
+  "result": {
+    "item": "minecraft:piston"
+  }
+}

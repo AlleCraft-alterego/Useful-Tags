@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:barrel",
+    "#ut:chest/ender",
+    "#ut:chest/trapped",
+    "#ut:chest/wooden",
+    "#forge:chests"
+  ]
+}

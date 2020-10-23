@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:glazed_terracotta/white",
+    "#ut:glazed_terracotta/orange",
+    "#ut:glazed_terracotta/magenta",
+    "#ut:glazed_terracotta/light_blue",
+    "#ut:glazed_terracotta/yellow",
+    "#ut:glazed_terracotta/lime",
+    "#ut:glazed_terracotta/pink",
+    "#ut:glazed_terracotta/gray",
+    "#ut:glazed_terracotta/light_gray",
+    "#ut:glazed_terracotta/cyan",
+    "#ut:glazed_terracotta/purple",
+    "#ut:glazed_terracotta/blue",
+    "#ut:glazed_terracotta/brown",
+    "#ut:glazed_terracotta/green",
+    "#ut:glazed_terracotta/red",
+    "#ut:glazed_terracotta/black"
+
+  ]
+}

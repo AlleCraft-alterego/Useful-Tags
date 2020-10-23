@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:dye/white",
+    "#ut:dye/orange",
+    "#ut:dye/magenta",
+    "#ut:dye/light_blue",
+    "#ut:dye/yellow",
+    "#ut:dye/lime",
+    "#ut:dye/pink",
+    "#ut:dye/gray",
+    "#ut:dye/light_gray",
+    "#ut:dye/cyan",
+    "#ut:dye/purple",
+    "#ut:dye/blue",
+    "#ut:dye/brown",
+    "#ut:dye/green",
+    "#ut:dye/red",
+    "#ut:dye/black"
+  ]
+}

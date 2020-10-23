@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:coral_block/blue",
+    "#ut:coral_block/magenta",
+    "#ut:coral_block/pink",
+    "#ut:coral_block/red",
+    "#ut:coral_block/yellow"
+  ]
+}

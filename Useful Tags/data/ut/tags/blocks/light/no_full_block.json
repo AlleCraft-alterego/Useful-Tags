@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:lantern",
+    "minecraft:toch",
+    "minecraft:end_rod",
+    "minecraft:ender_chest",
+    "minecraft:brown_mushroom",
+    "minecraft:campfire",
+    "minecraft:sea_pickle"
+  ]
+}

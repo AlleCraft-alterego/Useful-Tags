@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:bed/white",
+    "#ut:bed/orange",
+    "#ut:bed/magenta",
+    "#ut:bed/light_blue",
+    "#ut:bed/yellow",
+    "#ut:bed/lime",
+    "#ut:bed/pink",
+    "#ut:bed/gray",
+    "#ut:bed/light_gray",
+    "#ut:bed/cyan",
+    "#ut:bed/purple",
+    "#ut:bed/blue",
+    "#ut:bed/brown",
+    "#ut:bed/green",
+    "#ut:bed/red",
+    "#ut:bed/black"
+  ]
+}

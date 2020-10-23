@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "pneumaticcraft:ingot_iron_compressed",
+    "silents_mechanisms:compressed_iron_ingot"
+  ]
+}

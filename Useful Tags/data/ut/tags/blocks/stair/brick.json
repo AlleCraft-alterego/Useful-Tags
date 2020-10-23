@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:stairs/brick",
+    "#ut:stairs/end_stone_brick",
+    "#ut:stairs/mossy_stone_brick",
+    "#ut:stairs/polished_blackstone_brick",
+    "#ut:stairs/stone_brick"
+  ]
+}

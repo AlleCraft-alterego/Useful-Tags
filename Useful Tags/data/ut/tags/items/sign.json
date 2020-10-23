@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:sign/oak",
+    "#ut:sign/spruce",
+    "#ut:sign/birch",
+    "#ut:sign/jungle",
+    "#ut:sign/acacia",
+    "#ut:sign/dark_oak",
+    "#ut:sign/crimson",
+    "#ut:sign/warped",
+    "#minecraft:signs"
+  ]
+}

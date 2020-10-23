@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:slabs/mossy_stone_brick",
+    "#ut:slabs/polished_andesite",
+    "#ut:slabs/polished_blackstone",
+    "#ut:slabs/polished_blackstone_brick",
+    "#ut:slabs/polished_diorite",
+    "#ut:slabs/polished_granite",
+    "#ut:slabs/smooth_stone",
+    "#ut:slabs/stone",
+    "#ut:slabs/stone_brick"
+  ]
+}

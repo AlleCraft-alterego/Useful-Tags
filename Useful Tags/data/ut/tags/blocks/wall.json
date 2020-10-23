@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:wall/andesite",
+    "#ut:wall/blackstone",
+    "#ut:wall/brick",
+    "#ut:wall/cobblestone",
+    "#ut:wall/diorite",
+    "#ut:wall/end_stone_brick",
+    "#ut:wall/granite",
+    "#ut:wall/mossy_cobblestone",
+    "#ut:wall/mossy_stone_brick",
+    "#ut:wall/prismarine",
+    "#ut:wall/red_nether",
+    "#ut:wall/red_sandstone",
+    "#ut:wall/sandstone",
+    "#ut:wall/stone_brick",
+    "#minecraft:walls"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:crop/beetroot",
+    "#ut:crop/carrot",
+    "#ut:crop/nether_wart",
+    "#ut:crop/potato",
+    "#ut:crop/melon",
+    "#ut:crop/pumpkin",
+    "#ut:crop/wheat",
+    "#forge:crops"
+  ]
+}

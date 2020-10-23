@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:shulker_box/default",
+    "#ut:shulker_box/white",
+    "#ut:shulker_box/orange",
+    "#ut:shulker_box/magenta",
+    "#ut:shulker_box/light_blue",
+    "#ut:shulker_box/yellow",
+    "#ut:shulker_box/lime",
+    "#ut:shulker_box/pink",
+    "#ut:shulker_box/gray",
+    "#ut:shulker_box/light_gray",
+    "#ut:shulker_box/cyan",
+    "#ut:shulker_box/purple",
+    "#ut:shulker_box/blue",
+    "#ut:shulker_box/brown",
+    "#ut:shulker_box/green",
+    "#ut:shulker_box/red",
+    "#ut:shulker_box/black"
+
+  ]
+}

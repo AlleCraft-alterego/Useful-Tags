@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:coal/coal",
+    "#ut:coal/charcoal",
+    "#minecraft:coals"
+  ]
+}

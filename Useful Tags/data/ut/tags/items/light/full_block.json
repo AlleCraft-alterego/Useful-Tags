@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:glowstone",
+    "minecraft:jack_o_lantern",
+    "minecraft:sea_lantern",
+    "minecraft:beacon"
+  ]
+}

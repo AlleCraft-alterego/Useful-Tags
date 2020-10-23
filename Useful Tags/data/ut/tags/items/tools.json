@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:tools/axe",
+    "#ut:tools/hoe",
+    "#ut:tools/picaxe",
+    "#ut:tools/shear",
+    "#ut:tools/shovel",
+    "#ut:tools/sword",
+    "#ut:tools/fire_starter",
+    "#ut:tools/bow",
+    "#ut:tools/long_range",
+    "#ut:tools/shield",
+    "#ut:tools/string",
+    "#ut:tools_material/diamond",
+    "#ut:tools_material/golden",
+    "#ut:tools_material/iron",
+    "#ut:tools_material/stone",
+    "#ut:tools_material/wooden"
+  ]
+}

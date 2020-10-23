@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:block/coal",
+    "#ut:block/diamond",
+    "#ut:block/emerald",
+    "#ut:block/gold",
+    "#ut:block/iron",
+    "#ut:block/lapis",
+    "#ut:block/quartz",
+    "#ut:block/redstone",
+    "#ut:block/netherite",
+    "#forge:storage_blocks"
+  ]
+}

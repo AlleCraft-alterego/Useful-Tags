@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mekanism:ingot_steel",
+    "silents_mechanisms:steel_ingot",
+    "immersiveengineering:ingot_steel",
+    "c:steel_ingot"
+  ]
+}

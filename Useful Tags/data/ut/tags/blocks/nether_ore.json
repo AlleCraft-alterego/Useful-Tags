@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:ore/quartz",
+    "#ut:ore/nether_gold",
+    "#ut:ore/netherite_scrap"
+  ]
+}

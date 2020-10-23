@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:carpet/white",
+    "#ut:carpet/orange",
+    "#ut:carpet/magenta",
+    "#ut:carpet/light_blue",
+    "#ut:carpet/yellow",
+    "#ut:carpet/lime",
+    "#ut:carpet/pink",
+    "#ut:carpet/gray",
+    "#ut:carpet/light_gray",
+    "#ut:carpet/cyan",
+    "#ut:carpet/purple",
+    "#ut:carpet/blue",
+    "#ut:carpet/brown",
+    "#ut:carpet/green",
+    "#ut:carpet/red",
+    "#ut:carpet/black",
+    "#minecraft:carpets"
+
+  ]
+}

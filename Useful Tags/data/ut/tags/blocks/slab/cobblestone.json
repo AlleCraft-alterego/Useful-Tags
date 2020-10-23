@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:slabs/andesite",
+    "#ut:slabs/blackstone",
+    "#ut:slabs/cobblestone",
+    "#ut:slabs/diorite",
+    "#ut:slabs/granite",
+    "#ut:slabs/mossy_cobblestone"
+  ]
+}

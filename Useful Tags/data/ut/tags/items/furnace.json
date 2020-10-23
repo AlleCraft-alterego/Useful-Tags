@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:furnace/furnace",
+    "#ut:furnace/blast_furnace",
+    "#ut:furnace/smoker"
+  ]
+}

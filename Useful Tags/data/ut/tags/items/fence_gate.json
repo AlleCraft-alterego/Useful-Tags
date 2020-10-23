@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:fence_gate/oak",
+    "#ut:fence_gate/spruce",
+    "#ut:fence_gate/birch",
+    "#ut:fence_gate/jungle",
+    "#ut:fence_gate/acacia",
+    "#ut:fence_gate/dark_oak",
+    "#ut:fence_gate/crimson",
+    "#ut:fence_gate/warped",
+    "#forge:fence_gates"
+  ]
+}

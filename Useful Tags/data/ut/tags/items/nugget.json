@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:nugget/iron",
+    "#ut:nugget/gold",
+    "#forge:nuggets"
+  ]
+}

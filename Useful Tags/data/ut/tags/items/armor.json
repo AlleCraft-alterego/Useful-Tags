@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:armor/boots",
+    "#ut:armor/chestplate",
+    "#ut:armor/helmet",
+    "#ut:armor/horse",
+    "#ut:armor/leggins",
+    "#ut:armor_material/chainmail",
+    "#ut:armor_material/diamond",
+    "#ut:armor_material/golden",
+    "#ut:armor_material/iron",
+    "#ut:armor_material/leather"
+  ]
+}

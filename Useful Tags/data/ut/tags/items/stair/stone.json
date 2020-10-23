@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:stairs/mossy_stone_brick",
+    "#ut:stairs/polished_andesite",
+    "#ut:stairs/polished_blackstone",
+    "#ut:stairs/polished_blackstone_brick",
+    "#ut:stairs/polished_diorite",
+    "#ut:stairs/polished_granite",
+    "#ut:stairs/smooth_stone",
+    "#ut:stairs/stone",
+    "#ut:stairs/stone_brick"
+  ]
+}

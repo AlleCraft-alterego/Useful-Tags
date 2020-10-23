@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:rod/bamboo",
+    "#ut:rod/wooden",
+    "#ut:rod/blaze",
+    "#ut:rod/end",
+    "#forge:rods"
+  ]
+}

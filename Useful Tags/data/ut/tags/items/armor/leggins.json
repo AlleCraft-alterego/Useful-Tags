@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:leather_leggins",
+    "minecraft:chainmail_leggins",
+    "minecraft:iron_leggins",
+    "minecraft:gold_leggins",
+    "minecraft:diamond_leggins"
+  ]
+}

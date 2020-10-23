@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "silents_mechanisms:nickel_ingot",
+    "immersiveengineering:ingot_nickel"
+  ]
+}

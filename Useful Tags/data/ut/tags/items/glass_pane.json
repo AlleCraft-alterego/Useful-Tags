@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:glass_pane/white",
+    "#ut:glass_pane/orange",
+    "#ut:glass_pane/magenta",
+    "#ut:glass_pane/light_blue",
+    "#ut:glass_pane/yellow",
+    "#ut:glass_pane/lime",
+    "#ut:glass_pane/pink",
+    "#ut:glass_pane/gray",
+    "#ut:glass_pane/light_gray",
+    "#ut:glass_pane/cyan",
+    "#ut:glass_pane/purple",
+    "#ut:glass_pane/blue",
+    "#ut:glass_pane/brown",
+    "#ut:glass_pane/green",
+    "#ut:glass_pane/red",
+    "#ut:glass_pane/black",
+    "#forge:glass_panes"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:sand/red_sand",
+    "#ut:sand/sand",
+    "#forge:sand"
+  ]
+}

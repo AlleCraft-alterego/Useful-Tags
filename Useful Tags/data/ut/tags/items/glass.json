@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:glass/white",
+    "#ut:glass/orange",
+    "#ut:glass/magenta",
+    "#ut:glass/light_blue",
+    "#ut:glass/yellow",
+    "#ut:glass/lime",
+    "#ut:glass/pink",
+    "#ut:glass/gray",
+    "#ut:glass/light_gray",
+    "#ut:glass/cyan",
+    "#ut:glass/purple",
+    "#ut:glass/blue",
+    "#ut:glass/brown",
+    "#ut:glass/green",
+    "#ut:glass/red",
+    "#ut:glass/black",
+    "#forge:glass"
+  ]
+}

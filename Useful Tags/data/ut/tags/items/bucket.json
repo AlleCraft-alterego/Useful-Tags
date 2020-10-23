@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:bucket/fish",
+    "#ut:bucket/liquid",
+    "#ut:bucket/liquid_can_be_placed"
+  ]
+}

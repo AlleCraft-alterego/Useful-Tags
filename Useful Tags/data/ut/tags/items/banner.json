@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:banner/white",
+    "#ut:banner/orange",
+    "#ut:banner/magenta",
+    "#ut:banner/light_blue",
+    "#ut:banner/yellow",
+    "#ut:banner/lime",
+    "#ut:banner/pink",
+    "#ut:banner/gray",
+    "#ut:banner/light_gray",
+    "#ut:banner/cyan",
+    "#ut:banner/purple",
+    "#ut:banner/blue",
+    "#ut:banner/brown",
+    "#ut:banner/green",
+    "#ut:banner/red",
+    "#ut:banner/black"
+  ]
+}

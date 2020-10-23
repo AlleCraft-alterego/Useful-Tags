@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:leaves/oak_leaves",
+    "#ut:leaves/spruce_leaves",
+    "#ut:leaves/birch_leaves",
+    "#ut:leaves/jungle_leaves",
+    "#ut:leaves/acacia_leaves",
+    "#ut:leaves/dark_oak_leaves",
+    "#ut:leaves/crimson",
+    "#ut:leaves/warped",
+    "#minecraft:leaves"
+  ]
+}

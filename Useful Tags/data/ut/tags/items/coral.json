@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:coral/blue",
+    "#ut:coral/magenta",
+    "#ut:coral/pink",
+    "#ut:coral/red",
+    "#ut:coral/yellow"
+  ]
+}

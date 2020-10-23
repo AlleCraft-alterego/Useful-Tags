@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:light/full_block",
+    "#ut:light/no_full_block"
+  ]
+}

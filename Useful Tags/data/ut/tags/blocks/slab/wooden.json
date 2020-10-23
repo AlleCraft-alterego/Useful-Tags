@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:slabs/acacia",
+    "#ut:slabs/birch",
+    "#ut:slabs/dark_oak",
+    "#ut:slabs/jungle",
+    "#ut:slabs/oak",
+    "#ut:slabs/spruce",
+    "#ut:slabs/crimson",
+    "#ut:slabs/warped",
+    "#ut:slabs/petrified"
+  ]
+}

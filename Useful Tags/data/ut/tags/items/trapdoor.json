@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:trapdoor/oak",
+    "#ut:trapdoor/spruce",
+    "#ut:trapdoor/birch",
+    "#ut:trapdoor/jungle",
+    "#ut:trapdoor/acacia",
+    "#ut:trapdoor/dark_oak",
+    "#ut:trapdoor/crimson",
+    "#ut:trapdoor/warped",
+    "#ut:trapdoor/iron"
+  ]
+}

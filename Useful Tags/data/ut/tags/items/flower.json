@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "#ut:flower/black",
+    "#ut:flower/blue",
+    "#ut:flower/light_blue",
+    "#ut:flower/light_gray",
+    "#ut:flower/magenta",
+    "#ut:flower/orange",
+    "#ut:flower/pink",
+    "#ut:flower/red",
+    "#ut:flower/white",
+    "#ut:flower/yellow",
+    "#ut:flower/small/black",
+    "#ut:flower/small/blue",
+    "#ut:flower/small/light_blue",
+    "#ut:flower/small/light_gray",
+    "#ut:flower/small/magenta",
+    "#ut:flower/small/orange",
+    "#ut:flower/small/pink",
+    "#ut:flower/small/red",
+    "#ut:flower/small/white",
+    "#ut:flower/small/yelloy",
+    "#ut:flower/tall/magenta",
+    "#ut:flower/tall/pink",
+    "#ut:flower/tall/red",
+    "#ut:flower/tall/yellow",
+    "#minecraft:flowers",
+    "#minecraft:small_flowers",
+    "#minecraft:tall_flowers"
+  ]
+}
